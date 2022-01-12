@@ -1,5 +1,5 @@
 function validSpacing(text) {
-  return !text.match(/^(\s)|(\s\s)|(\s)$/);
+  return !text.match(/(^\s|\s\s|\s$)/);
 }
 
 console.log("Must be true:");
