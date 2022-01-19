@@ -1,5 +1,5 @@
 function sumOfIntegersInString(s) {
-  return s.split(/\D/).reduce((prev, curr) => prev + curr, 0);
+  return s.split(/\D/).reduce((prev, curr) => prev + Number(curr), 0);
 }
 
 let = exampleTests = [
