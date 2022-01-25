@@ -10,3 +10,4 @@ Algoritmos creados en el curso de Full Stack.
 - [004. Scrabble Score](004_scrabble-score)
 - [005. Sum of integers in string](005_Sum-of-integers-in-string)
 - [006. Sort array by string length](006_Sort-array-by-string-length)
+- [007. Highest and Lowest](007_Highest-and-Lowest)
